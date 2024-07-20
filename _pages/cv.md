@@ -21,11 +21,6 @@ Work experience
   * Tencent America, AI Lab
   * Duties included: RLHF for LLM Alignment
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
