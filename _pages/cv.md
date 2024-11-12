@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical & Computer Engineering, Purdue University, 2026 (expected)
+* Ph.D. in Electrical & Computer Engineering, Purdue University, 2026 (expected)
 * M.S. in EE, Columbia University, 2022
-* B.S. in EE, Xi'an Jiaotong University, 2020
+* B.E. in EE, Xi'an Jiaotong University, 2020
 
 Work experience
 ======
-* Summer 2024: Research Intern
-  * Tencent America, AI Lab
+* Summer 2024: Tencent America, AI Lab
+  * Location: Bellevue, WA
+  * Title: Research Scientist Intern
   * Duties included: RLHF for LLM Alignment
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Git
   
 Skills
 ======
@@ -49,6 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+{% Service and leadership %}
+Service
 ======
 * Currently signed in to 43 different slack teams
