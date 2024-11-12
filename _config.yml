@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eric / Site Title"
+title                    : "Eric Lan"
 title_separator          : "-"
-name                     : &name "Eric"
+name                     : &name "Guangchen (Eric) Lan"
 description              : &description "personal description"
 url                      : https://Eric-Lan0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
