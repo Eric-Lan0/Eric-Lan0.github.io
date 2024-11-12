@@ -7,7 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
+Work Experience
+======
+* Summer 2024: Tencent America, AI Lab
+  * Location: Bellevue, WA
+  * Title: Research Scientist Intern
+  * Duties included: RLHF for LLM Alignment
+  * Supervisor: Dr. Git
 
 Education
 ======
@@ -15,14 +22,6 @@ Education
 * M.S. in EE, Columbia University, 2022
 * B.E. in EE, Xi'an Jiaotong University, 2020
 
-Work experience
-======
-* Summer 2024: Tencent America, AI Lab
-  * Location: Bellevue, WA
-  * Title: Research Scientist Intern
-  * Duties included: RLHF for LLM Alignment
-  * Supervisor: Dr. Git
-  
 Skills
 ======
 * Skill 1
@@ -31,12 +30,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -44,13 +37,11 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Academic Service
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-{% Service and leadership %}
-Service
-======
-* Currently signed in to 43 different slack teams
+* Reviewer
+  * NeurIPS 2024
+  * ICLR 2024, 2025
+  * AISTATS 2024, 2025
+  * AAAI 2024
+  * IEEE Transactions on Mobile Computing
