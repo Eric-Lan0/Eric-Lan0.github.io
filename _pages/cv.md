@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 Work Experience
 ======
 * Summer 2025:
@@ -30,12 +29,6 @@ Skills
 * Reinforcement Learning
   * Sub-skill 2.1
 * Skill 3
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Academic Service
 ======
