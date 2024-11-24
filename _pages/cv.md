@@ -10,11 +10,13 @@ redirect_from:
 
 Work Experience
 ======
+* Summer 2025:
+  
 * Summer 2024: Tencent America, AI Lab
-  * Location: Bellevue, WA
-  * Title: Research Scientist Intern
-  * Duties included: RLHF for LLM Alignment
-  * Supervisor: Dr. Git
+  * Location: Bellevue, WA.
+  * Title: Research Scientist Intern.
+  * Duties included: RLHF for LLM Alignment.
+  * Supervisor: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu.
 
 Education
 ======
@@ -25,10 +27,8 @@ Education
 Skills
 ======
 * Skill 1
-* Skill 2
+* Reinforcement Learning
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
   
 Talks
@@ -40,7 +40,7 @@ Talks
 Academic Service
 ======
 * Reviewer
-  * NeurIPS 2024
+  * NeurIPS 2024 (Top Reviewer Award)
   * ICLR 2024, 2025
   * AISTATS 2024, 2025
   * AAAI 2024
