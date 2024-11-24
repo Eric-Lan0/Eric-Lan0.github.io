@@ -17,12 +17,14 @@ Work Experience
   * *Duties included*: RLHF for LLM Alignment.
   * *Supervisor*: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu.
 
+&nbsp
 Education
 ======
 * Ph.D. in Electrical & Computer Engineering, Purdue University, 2026 (expected)
 * M.S. in EE, Columbia University, 2022
 * B.E. in EE, Xi'an Jiaotong University, 2020
 
+&nbsp
 Skills
 ======
 * Reinforcement Learning (RL)
@@ -31,7 +33,8 @@ Skills
 * Distributed Training
 * Large Language Models (LLMs)
 * Diffusion Models
-  
+
+&nbsp
 Academic Service
 ======
 * Reviewer
