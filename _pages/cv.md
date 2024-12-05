@@ -41,6 +41,7 @@ Skills
 Academic Service
 ======
 * Reviewer
+  * ICML 2025
   * NeurIPS 2024 (**Top Reviewer Award**)
   * ICLR 2024, 2025
   * AISTATS 2024, 2025
