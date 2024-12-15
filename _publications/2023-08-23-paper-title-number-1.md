@@ -10,4 +10,4 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/10233897'
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/10233897)
 
-Guangchen Lan, Xiao-Yang Liu, Yijing Zhang, Xiaodong Wang. "Communication-Efficient Federated Learning for Resource-Constrained Edge Devices." <i>JIEEE Transactions on Machine Learning in Communications and Networking</i> (2023).
+**Guangchen Lan**, Xiao-Yang Liu, Yijing Zhang, Xiaodong Wang. "Communication-Efficient Federated Learning for Resource-Constrained Edge Devices." <i>IEEE Transactions on Machine Learning in Communications and Networking</i> (2023).
