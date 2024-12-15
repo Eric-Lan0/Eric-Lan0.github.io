@@ -1,7 +1,6 @@
 ---
 title: "Communication-Efficient Federated Learning for Resource-Constrained Edge Devices"
 collection: Volume 1
-permalink: /publication/2023-08-23-paper-title-number-1
 excerpt: 'Federated Learning, Model Compression, Tensor Decomposition, Zeroth-order Optimization.'
 date: 2023-08-23
 venue: 'IEEE Transactions on Machine Learning in Communications and Networking'
