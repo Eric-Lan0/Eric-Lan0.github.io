@@ -3,7 +3,6 @@ title: "Improved Communication Efficiency in Federated Natural Policy Gradient v
 excerpt: 'Reinforcement Learning, Distributed Training.'
 date: 2023-09-21
 venue: 'NeurIPS'
-citation: 'Guangchen Lan, Han Wang, James Anderson, Christopher Brinton, Vaneet Aggarwal. &quot;Improved Communication Efficiency in Federated Natural Policy Gradient via ADMM-based Gradient Updates.&quot; <i>NeurIPS</i> (2023).'
 ---
 
 [Download paper here](https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc6a1f968f8b1dae3e880f3f723d7d46-Abstract-Conference.html)
