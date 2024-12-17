@@ -11,10 +11,9 @@ Work Experience
 ======
 * Summer 2025:
   
-* Summer 2024: Tencent America, AI Lab
-  * *Location*: Bellevue, WA.
-  * *Title*: Research Scientist Intern.
-  * *Duties included*: RLHF for LLM Alignment.
+* Summer 2024: Tencent America, AI Lab. *Bellevue, WA*
+  * Research Scientist Intern.
+  * Reinforcement Fine-Tuning / RLHF for LLM Alignment.
   * *Supervisor*: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu.
 
 <br>
@@ -30,7 +29,7 @@ Education
 Skills
 ======
 * Reinforcement Learning (RL)
-  * RLHF for Foundation Models
+  * Reinforcement Fine-Tuning for Foundation Models
   * Distributed RL Theory
 * Distributed Training
 * Large Language Models (LLMs)
