@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey! :wave: I am a PhD student at Purdue University.
+Hey! 👋 I am a PhD student at Purdue University.
 
 Getting started
 ======
