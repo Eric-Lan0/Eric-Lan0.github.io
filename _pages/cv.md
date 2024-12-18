@@ -14,7 +14,7 @@ Work Experience
 * May - August, 2024: Tencent America, AI Lab. *Bellevue, WA*
   * Research Scientist Intern.
   * Reinforcement Fine-Tuning / RLHF for LLM Alignment.
-  * *Supervisor*: Dr. Xiaoman Pan, Dr. Hongming Zhang, Dr. Dong Yu.
+  * *Supervisor*: [Dr. Xiaoman Pan](https://scholar.google.com/citations?user=tRPF03IAAAAJ), Dr. Hongming Zhang, Dr. Dong Yu.
 
 <br>
 
