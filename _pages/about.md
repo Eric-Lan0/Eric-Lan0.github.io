@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey! 👋 I am a PhD student at Purdue University. My research focuses on Reinforcement Learning (RL) Theory and RL applications in Foundation Models -- Reinforcement Fine-Tuning (RFT) & Reinforcement Learning from Human Feedback (RLHF).
+Hey! 👋 I am a PhD student at Purdue University. 
+
+My research focuses on Reinforcement Learning (RL) Theory and RL applications in Foundation Models (LLMs, Diffusion Models) -- Reinforcement Fine-Tuning (RFT) & Reinforcement Learning from Human Feedback (RLHF).
 
 Getting started
 ======
