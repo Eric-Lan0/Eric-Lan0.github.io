@@ -9,8 +9,15 @@ redirect_from:
 
 Work Experience
 ======
-* Summer 2025:
-  
+* Jun - Aug, 2025: Capital One, Applied Research. *New York, NY*
+  * Applied Scientist Intern.
+  * *Supervisor*: 
+
+* March - May, 2025: Microsoft Research. *Redmond, WA*
+  * Research Scientist Intern.
+  * LLM Reasoning.
+  * *Supervisor*: [Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
+
 * May - August, 2024: Tencent America, AI Lab. *Bellevue, WA*
   * Research Scientist Intern.
   * Reinforcement Fine-Tuning / RLHF for LLM Alignment.
