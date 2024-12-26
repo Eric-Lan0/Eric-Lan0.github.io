@@ -9,7 +9,7 @@ redirect_from:
 
 Work Experience
 ======
-* Jun - Aug, 2025: Capital One, Applied AI Research.  *New York, NY*
+* June - August, 2025: Capital One, Applied AI Research.  *New York, NY*
   * Applied Scientist Intern.
   * LLM.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
