@@ -10,7 +10,7 @@ redirect_from:
 
 Hey! 👋 I am a PhD student at Purdue University. Contact me at lan44\[at\]purdue.edu
 
-My research focuses on Reinforcement Learning (RL) Theory and Foundation Model (LLM and Diffusion Model) Post-Training -- Reinforcement Fine-Tuning (RFT) & Reinforcement Learning from Human Feedback (RLHF).
+My research focuses on Reinforcement Learning (RL) Theory and Foundation Model (LLM and Diffusion Model) Post-Training, especially Reinforcement Fine-Tuning (RFT) & Reinforcement Learning from Human Feedback (RLHF).
 
 Current Projects
 ======
