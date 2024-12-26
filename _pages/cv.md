@@ -12,12 +12,12 @@ Work Experience
 * Jun - Aug, 2025: Capital One, Applied AI Research.  *New York, NY*
   * Applied Scientist Intern.
   * LLM.
-  * *Supervisor*: [Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
+  * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
 
 * March - May, 2025: Microsoft Research (MSR).  *Redmond, WA*
   * Research Scientist Intern.
   * LLM Reasoning.
-  * *Supervisor*: [Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
+  * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
 
 * May - August, 2024: Tencent America, AI Lab.  *Bellevue, WA*
   * Research Scientist Intern.
