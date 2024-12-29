@@ -14,7 +14,7 @@ Work Experience
   * LLM Pre-Training & Post-Training.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
 
-* March - May, 2025.  Microsoft Research (MSR).
+* March - May, 2025.  Microsoft Research (MSR) <i class="fa-brands fa-windows"></i>.
   * Research Scientist Intern.  *Redmond, WA*
   * LLM Reasoning.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
