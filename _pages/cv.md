@@ -9,19 +9,19 @@ redirect_from:
 
 Work Experience
 ======
-* June - August, 2025: Capital One, Applied AI Research.  *New York, NY*
-  * Applied Scientist Intern.
-  * LLM.
+* June - August, 2025.  Capital One, Applied AI Research.
+  * Applied Scientist Intern.  *New York, NY*
+  * LLM Pre-Training & Post-Training.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
 
-* March - May, 2025: Microsoft Research (MSR).  *Redmond, WA*
-  * Research Scientist Intern.
+* March - May, 2025.  Microsoft Research (MSR).
+  * Research Scientist Intern.  *Redmond, WA*
   * LLM Reasoning.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
 
-* May - August, 2024: Tencent America, AI Lab.  *Bellevue, WA*
-  * Research Scientist Intern.
-  * Reinforcement Fine-Tuning / RLHF for LLM Alignment.
+* May - August, 2024.  Tencent America, AI Lab.
+  * Research Scientist Intern.  *Bellevue, WA*
+  * Reinforcement Fine-Tuning & RLHF for LLM Alignment.
   * *Supervisor*: [Dr. Xiaoman Pan](https://scholar.google.com/citations?user=tRPF03IAAAAJ), [Dr. Hongming Zhang](https://scholar.google.com/citations?user=i5ETuuQAAAAJ), [Dr. Dong Yu](https://scholar.google.com/citations?hl=en&user=tMY31_gAAAAJ&view_op=list_works&sortby=pubdate).
 
 <br>
