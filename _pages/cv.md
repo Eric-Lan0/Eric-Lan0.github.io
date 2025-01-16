@@ -19,7 +19,7 @@ Work Experience
   * LLM Reasoning.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
 
-* May - August, 2024.  Tencent America, AI Lab.
+* May - August, 2024.  <i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
   * Research Scientist Intern.  🏡 *Bellevue, WA*
   * Reinforcement Fine-Tuning & RLHF for LLM Alignment.
   * *Supervisor*: [Dr. Xiaoman Pan](https://scholar.google.com/citations?user=tRPF03IAAAAJ), [Dr. Hongming Zhang](https://scholar.google.com/citations?user=i5ETuuQAAAAJ), [Dr. Dong Yu](https://scholar.google.com/citations?hl=en&user=tMY31_gAAAAJ&view_op=list_works&sortby=pubdate).
