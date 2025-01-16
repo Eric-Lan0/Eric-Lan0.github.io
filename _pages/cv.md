@@ -17,7 +17,7 @@ Work Experience
 * March - May, 2025.  <i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
   * Research Scientist Intern.  🏡 *Redmond, WA*
   * LLM Reasoning.
-  * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/)
+  * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ)
 
 * May - August, 2024.  <i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
   * Research Scientist Intern.  🏡 *Bellevue, WA*
