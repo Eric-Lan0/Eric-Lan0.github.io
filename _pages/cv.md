@@ -9,18 +9,18 @@ redirect_from:
 
 Work Experience
 ======
-* June - August, 2025.  <i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.
-  * Applied Scientist Intern.  🏡 *New York, NY*
+* June - August, 2025.   <i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.
+  * Applied Scientist Intern.   🏡 *New York, NY*
   * LLM Pre-Training & Post-Training.
-  * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en)
+  * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en).
 
-* March - May, 2025.  <i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
-  * Research Scientist Intern.  🏡 *Redmond, WA*
+* March - May, 2025.   <i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
+  * Research Scientist Intern.   🏡 *Redmond, WA*
   * LLM Reasoning.
-  * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ)
+  * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ).
 
-* May - August, 2024.  <i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
-  * Research Scientist Intern.  🏡 *Bellevue, WA*
+* May - August, 2024.   <i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
+  * Research Scientist Intern.   🏡 *Bellevue, WA*
   * Reinforcement Fine-Tuning & RLHF for LLM Alignment.
   * *Supervisor*: [Dr. Xiaoman Pan](https://scholar.google.com/citations?user=tRPF03IAAAAJ), [Dr. Hongming Zhang](https://scholar.google.com/citations?user=i5ETuuQAAAAJ), [Dr. Dong Yu](https://scholar.google.com/citations?hl=en&user=tMY31_gAAAAJ&view_op=list_works&sortby=pubdate).
 
