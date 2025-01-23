@@ -38,8 +38,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '</p>' }}</p>
+    {% if post.excerpt and site.read_more = 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
@@ -48,7 +48,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.author and post.paperurl %}
-      <p>{{ post.author }} <br />
+      <p>{{ post.excerpt | markdownify }} <br /> {{ post.author }} <br />
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <i>{{ post.venue }}</i>. <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>.<br />
         <a href=" {{ post.paperurl }} ">[Paper]</a>
       </p>
