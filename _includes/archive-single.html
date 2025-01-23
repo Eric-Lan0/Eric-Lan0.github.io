@@ -50,7 +50,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.author and post.paperurl %}
-      <p>{{ post.excerpt }} <br />
+      <p> - {{ post.excerpt }} <br />
         {{ post.author }} <br />
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> </strong> <i>{{ post.venue }}</i>. <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>.<br />
         <a href=" {{ post.paperurl }} ">[Paper]</a>
