@@ -14,5 +14,5 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% [1] include archive-single.html %}
+  {% include archive-single.html %}
 {% endfor %}
