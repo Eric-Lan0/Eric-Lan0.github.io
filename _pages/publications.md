@@ -14,10 +14,13 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 {% include base_path %}
 
 <style>
-ol.ref li::before{content: '\['counter(num)'\]';}
+ol {
+  reverse: 1;
+  content: '\['counter(num)'\]';
+}
 </style>
 
-<ol reversed=1, class="ref">
+<ol>
     <li>小米手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
