@@ -9,7 +9,7 @@ redirect_from:
 
 Work Experience
 ======
-* \[June - August, 2025\] &#9;"  ";<i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.
+* <table><tr><td>\[June - August, 2025\]</td> <td><i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.</td></tr></table>
   * Applied Scientist Intern.   🏡 *New York, NY*
   * LLM pre-training & post-training.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en).
