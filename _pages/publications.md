@@ -35,7 +35,7 @@ ol {
         - Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation. <br />
         Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
         Submitted to <font color="#9900FF"><strong>CVPR</strong></font> 2025. February 26, 2025. <br />
-        [paper](https://huggingface.co/papers/2410.05255) <br />
+        <a href="https://huggingface.co/papers/2410.05255">[paper]</a><br />
     </li>
     <li>Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis. <br />
         - Reinforcement Learning, Asynchronous System, Distributed Training. <br />
