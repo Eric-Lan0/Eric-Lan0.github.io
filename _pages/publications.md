@@ -17,7 +17,6 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
-  line-height:1.5;
   counter-reset: num 5;
   list-style: none;
   li::before{
@@ -26,6 +25,7 @@ ol {
   }
   margin-right: -4em;
   margin-left: 2em;
+  margin-bottom: 2em;
   padding-left: 0;
   text-indent: -1.5em;
 }
