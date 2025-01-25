@@ -17,14 +17,13 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
-  reversed: reversed;
-  content: '\['counter(num)'\]';
-}
+  li::before{content: '第' counter(num) '条:';}
+    }
 </style>
 </head>
 
 <body>
-<ol>
+<ol reversed=1>
     <li>小米手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
