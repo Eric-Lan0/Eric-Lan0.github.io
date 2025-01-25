@@ -17,7 +17,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
-  counter-set: 4;
+  counter-reset: num 4;
   list-style: none;
   li::before{
   counter-increment: num -1;
