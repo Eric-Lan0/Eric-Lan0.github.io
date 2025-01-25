@@ -13,11 +13,13 @@ Work Experience
   * Applied Scientist Intern.&emsp;&emsp;🏡 *New York, NY*
   * LLM pre-training & post-training.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en).
+<br />
 
 * \[Mar. - May 2025\] &emsp;&emsp;<i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR)
   * Research Scientist Intern. &emsp;🏡 *Redmond, WA*
   * LLM reasoning for math and code generation.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ).
+<br />
 
 * \[May - Aug. 2024\] &emsp;&emsp;<i class="fa-brands fa-qq"></i> Tencent America, AI Lab
   * Research Scientist Intern. &emsp;🏡 *Bellevue, WA*
