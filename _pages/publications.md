@@ -13,19 +13,24 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 
 {% include base_path %}
 
+<html>
+<head>
 <style>
 ol {
   reverse: 1;
   content: '\['counter(num)'\]';
 }
 </style>
+</head>
 
+<body>
 <ol>
     <li>小米手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
 </ol>
-
+</body>
+</html>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
