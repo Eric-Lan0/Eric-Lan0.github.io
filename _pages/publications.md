@@ -37,21 +37,21 @@ ol {
     <li>Self-Sampling Preference Optimization for Diffusion Model Alignment. <br />
         <font color="#778899">{Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation}</font> <br />
         Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
-        Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (<font color="#CD5C5C"><strong>CVPR</strong></font>) 2025. February 26, 2025. <br />
+        Submitted to <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<font color="#CD5C5C"><strong>CVPR</strong></font>) 2025. February 26, 2025. <br />
         <a href="https://huggingface.co/papers/2410.05255">[paper]</a>
     </li>
     <br />
     <li>Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis. <br />
         <font color="#778899">{Reinforcement Learning, Asynchronous System, Distributed Training}</font> <br />
         <strong>Guangchen Lan</strong>, Dong-Jun Han, Abolfazl Hashemi, Vaneet Aggarwal, Christopher Brinton. <br />
-        International Conference on Learning Representations (<font color="#CD5C5C"><strong>ICLR</strong></font>) 2025. January 22, 2025. <br />
+        <i>International Conference on Learning Representations</i> (<font color="#CD5C5C"><strong>ICLR</strong></font>) 2025. January 22, 2025. <br />
         <a href="https://arxiv.org/abs/2404.08003">[paper]</a>
     </li>
     <br />
     <li>Improved Communication Efficiency in Federated Natural Policy Gradient via ADMM-based Gradient Updates. <br />
         <font color="#778899">{Reinforcement Learning, Distributed Training, Optimization}</font> <br />
         <strong>Guangchen Lan</strong>, Han Wang, James Anderson, Christopher Brinton, Vaneet Aggarwal. <br />
-        Advances in Neural Information Processing Systems (<font color="#CD5C5C"><strong>NeurIPS</strong></font>) 2023. September 21, 2023. <br />
+        <i>Advances in Neural Information Processing Systems</i> (<font color="#CD5C5C"><strong>NeurIPS</strong></font>) 2023. September 21, 2023. <br />
         <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc6a1f968f8b1dae3e880f3f723d7d46-Abstract-Conference.html">[paper]</a>
     </li>
     <br />
