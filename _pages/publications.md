@@ -21,7 +21,8 @@ ol {
   counter-increment: num 1;
   list-style: none;
   li::before{content: '第' counter(num) '条:';}
-    }
+  padding-left: 0;
+}
 </style>
 </head>
 
