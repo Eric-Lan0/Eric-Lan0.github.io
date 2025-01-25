@@ -21,7 +21,7 @@ ol li::before {
       content: \[counter(index)\];
 }
 
-<ol>
+<ol reversed=1>
     <li>小米手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
