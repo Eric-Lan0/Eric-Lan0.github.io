@@ -17,7 +17,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
-  counter-reset: num 4;
+  counter-reset: num 5;
   list-style: none;
   li::before{
   counter-increment: num -1;
@@ -30,9 +30,10 @@ ol {
 
 <body>
 <ol>
-    <li>小米 <br>
-      手机</li>
+    <li>小米 <br \>
+        手机</li>
     <li>华为手机</li>
+    <li>魅族手机</li>
     <li>魅族手机</li>
 </ol>
 </body>
