@@ -21,7 +21,7 @@ ol {
   list-style: none;
   li::before{
   counter-increment: num -1;
-  content: '['counter(num)']';
+  content: '['counter(num)'] ';
   }
   padding-left: 0;
 }
