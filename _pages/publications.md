@@ -35,16 +35,25 @@ ol {
         - Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation. <br />
         Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
         Submitted to <font color="#9900FF"><strong>CVPR</strong></font> 2025. February 26, 2025. <br />
-        <a href="https://huggingface.co/papers/2410.05255">[paper]</a><br />
+        <a href="https://huggingface.co/papers/2410.05255">[paper]</a> <br />
     </li>
     <li>Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis. <br />
         - Reinforcement Learning, Asynchronous System, Distributed Training. <br />
         <strong>Guangchen Lan</strong>, Dong-Jun Han, Abolfazl Hashemi, Vaneet Aggarwal, Christopher Brinton. <br />
         <strong>ICLR</strong> 2025. January 22, 2025. <br />
-        [paper](https://arxiv.org/abs/2404.08003) <br />
+        <a href="https://arxiv.org/abs/2404.08003">[paper]</a> <br />
     </li>
-    <li>魅族手机</li>
-    <li>魅族手机</li>
+    <li>Improved Communication Efficiency in Federated Natural Policy Gradient via ADMM-based Gradient Updates. <br />
+        - Reinforcement Learning, Distributed Training, Optimization. <br />
+        <strong>Guangchen Lan</strong>, Han Wang, James Anderson, Christopher Brinton, Vaneet Aggarwal. <br />
+        <strong>NeurIPS</strong> 2023. September 21, 2023. <br />
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc6a1f968f8b1dae3e880f3f723d7d46-Abstract-Conference.html">[paper]</a> <br />
+    </li>
+    <li>Communication-Efficient Federated Learning for Resource-Constrained Edge Devices. <br />
+        - Federated Learning, Model Compression, Tensor Decomposition, Zeroth-order Optimization. <br />
+        <strong>Guangchen Lan</strong>, Xiao-Yang Liu, Yijing Zhang, Xiaodong Wang. <br />
+        IEEE Transactions on Machine Learning in Communications and Networking. August 23, 2023. <br />
+    </li>
 </ol>
 </body>
 </html>
