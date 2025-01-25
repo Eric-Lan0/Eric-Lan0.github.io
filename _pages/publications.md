@@ -17,7 +17,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
-  reversed: "reversed";
+  reversed: reversed;
   content: '\['counter(num)'\]';
 }
 </style>
