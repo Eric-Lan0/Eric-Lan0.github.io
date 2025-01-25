@@ -63,7 +63,3 @@ ol {
 </ol>
 </body>
 </html>
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
