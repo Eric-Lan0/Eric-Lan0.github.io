@@ -33,9 +33,13 @@ ol {
     <li>Self-Sampling Preference Optimization for Diffusion Model Alignment. <br />
         - Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation. <br />
         Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
-        Submitted to <font color="#9900FF">CVPR</font> 2025. February 26, 2025.
+        Submitted to <font color="#9900FF"><strong>CVPR</strong></font> 2025. February 26, 2025. <br />
     </li>
-    <li>华为手机</li>
+    <li>Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis. <br />
+        - Reinforcement Learning, Asynchronous System, Distributed Training. <br />
+        <strong>Guangchen Lan</strong>, Dong-Jun Han, Abolfazl Hashemi, Vaneet Aggarwal, Christopher Brinton. <br />
+        <strong>ICLR</strong> 2025. January 22, 2025. <br />
+    </li>
     <li>魅族手机</li>
     <li>魅族手机</li>
 </ol>
