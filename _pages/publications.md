@@ -13,6 +13,10 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 
 {% include base_path %}
 
+ol {
+      reversed: 1;
+    }
+
 ol li::before {
       content: \[counter(index)\];
 }
