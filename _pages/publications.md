@@ -20,7 +20,7 @@ ol {
   counter-reset: num;
   list-style: none;
   li::before{
-  counter-increment: num 1;
+  counter-increment: num -1;
   content: '第' counter(num) '条:';
   }
   padding-left: 0;
@@ -29,7 +29,7 @@ ol {
 </head>
 
 <body>
-<ol reversed=1>
+<ol>
     <li>小米手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
