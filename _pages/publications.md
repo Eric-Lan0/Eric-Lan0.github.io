@@ -18,6 +18,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <style>
 ol {
   counter-reset: num;
+  counter-increment: num;
   li::before{content: '第' counter(num) '条:';}
     }
 </style>
