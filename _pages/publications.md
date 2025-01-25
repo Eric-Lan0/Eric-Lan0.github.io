@@ -55,7 +55,7 @@ ol {
     <li>Communication-Efficient Federated Learning for Resource-Constrained Edge Devices. <br />
         - Federated Learning, Model Compression, Tensor Decomposition, Zeroth-order Optimization. <br />
         <strong>Guangchen Lan</strong>, Xiao-Yang Liu, Yijing Zhang, Xiaodong Wang. <br />
-        <strong>IEEE Transactions on Machine Learning in Communications and Networking</strong>. August 23, 2023. <br />
+        <font color="#454545"><strong>IEEE Transactions on Machine Learning in Communications and Networking</strong></font>. August 23, 2023. <br />
         <a href="https://ieeexplore.ieee.org/abstract/document/10233897">[paper]</a>
     </li>
 </ol>
