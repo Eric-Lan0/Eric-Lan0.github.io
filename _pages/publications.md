@@ -35,7 +35,7 @@ ol {
 <body>
 <ol>
     <li>Self-Sampling Preference Optimization for Diffusion Model Alignment. <br />
-        <font color="#778899">\{Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation\}</font> <br />
+        <font color="#778899">{Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation}</font> <br />
         Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
         Submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (<font color="#CD5C5C"><strong>CVPR</strong></font>) 2025. February 26, 2025. <br />
         <a href="https://huggingface.co/papers/2410.05255">[paper]</a>
