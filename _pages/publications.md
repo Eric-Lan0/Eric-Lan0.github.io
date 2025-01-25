@@ -41,21 +41,21 @@ ol {
     <li>Asynchronous Federated Reinforcement Learning with Policy Gradient Updates: Algorithm Design and Convergence Analysis. <br />
         - Reinforcement Learning, Asynchronous System, Distributed Training. <br />
         <strong>Guangchen Lan</strong>, Dong-Jun Han, Abolfazl Hashemi, Vaneet Aggarwal, Christopher Brinton. <br />
-        <strong>ICLR</strong> 2025. January 22, 2025. <br />
+        <font color="#CD5C5C"><strong>ICLR</strong></font> 2025. January 22, 2025. <br />
         <a href="https://arxiv.org/abs/2404.08003">[paper]</a>
     </li>
     <br />
     <li>Improved Communication Efficiency in Federated Natural Policy Gradient via ADMM-based Gradient Updates. <br />
         - Reinforcement Learning, Distributed Training, Optimization. <br />
         <strong>Guangchen Lan</strong>, Han Wang, James Anderson, Christopher Brinton, Vaneet Aggarwal. <br />
-        <strong>NeurIPS</strong> 2023. September 21, 2023. <br />
+        <font color="#CD5C5C"><strong>NeurIPS</strong></font> 2023. September 21, 2023. <br />
         <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/bc6a1f968f8b1dae3e880f3f723d7d46-Abstract-Conference.html">[paper]</a>
     </li>
     <br />
     <li>Communication-Efficient Federated Learning for Resource-Constrained Edge Devices. <br />
         - Federated Learning, Model Compression, Tensor Decomposition, Zeroth-order Optimization. <br />
         <strong>Guangchen Lan</strong>, Xiao-Yang Liu, Yijing Zhang, Xiaodong Wang. <br />
-        IEEE Transactions on Machine Learning in Communications and Networking. August 23, 2023. <br />
+        <strong>IEEE Transactions on Machine Learning in Communications and Networking</strong>. August 23, 2023. <br />
         <a href="https://ieeexplore.ieee.org/abstract/document/10233897">[paper]</a>
     </li>
 </ol>
