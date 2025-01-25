@@ -30,8 +30,8 @@ ol {
 
 <body>
 <ol>
-    <li>小米 <br />
-      手机</li>
+    <li><br>小米 <br />
+      <br>手机</li>
     <li>华为手机</li>
     <li>魅族手机</li>
 </ol>
