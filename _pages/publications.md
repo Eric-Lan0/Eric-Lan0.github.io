@@ -13,6 +13,16 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 
 {% include base_path %}
 
+ol li::before {
+      content: \[counter(index)\];
+}
+
+<ol>
+    <li>小米手机</li>
+    <li>华为手机</li>
+    <li>魅族手机</li>
+</ol>
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
