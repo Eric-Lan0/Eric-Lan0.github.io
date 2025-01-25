@@ -24,7 +24,9 @@ ol {
   content: '['counter(num)'] ';
   }
   margin-right: -4em;
+  margin-left: 2em;
   padding-left: 0;
+  text-indent: -2em;
 }
 </style>
 </head>
