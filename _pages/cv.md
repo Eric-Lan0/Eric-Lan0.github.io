@@ -9,17 +9,17 @@ redirect_from:
 
 Work Experience
 ======
-* <table border="0"><tr><td>\[June - August, 2025\]</td> <td><i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.</td></tr></table>
+* \[June - August, 2025\] &emsp;<i class="fa-solid fa-money-check-dollar"></i> Capital One, Applied AI Research.
   * Applied Scientist Intern.   🏡 *New York, NY*
   * LLM pre-training & post-training.
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en).
 
-* \[March - May, 2025\] &#9;&#9;<i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
+* \[March - May, 2025\] &emsp;<i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
   * Research Scientist Intern.   🏡 *Redmond, WA*
   * LLM reasoning for math and code generation.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ).
 
-* \[May - August, 2024\] &#9;&#9;<i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
+* \[May - August, 2024\] &emsp;<i class="fa-brands fa-qq"></i> Tencent America, AI Lab.
   * Research Scientist Intern.   🏡 *Bellevue, WA*
   * Reinforcement fine-tuning & RLHF for LLM alignment.
   * *Supervisor*: [Dr. Xiaoman Pan](https://scholar.google.com/citations?user=tRPF03IAAAAJ), [Dr. Hongming Zhang](https://scholar.google.com/citations?user=i5ETuuQAAAAJ), [Dr. Dong Yu](https://scholar.google.com/citations?hl=en&user=tMY31_gAAAAJ&view_op=list_works&sortby=pubdate).
