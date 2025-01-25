@@ -53,6 +53,7 @@ Academic Service
   * ICLR 2024, 2025
   * AISTATS 2024, 2025
   * AAAI 2024
+  * Transactions on Machine Learning Research (TMLR)
   * IEEE Transactions on Mobile Computing
   * IEEE Journal on Selected Areas in Communications (RL track)
 
