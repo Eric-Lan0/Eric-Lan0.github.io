@@ -14,7 +14,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 {% include base_path %}
 
 <style>
-ol.example li::before{content: '['counter(num)']';}
+ol.example li::before{content: '\['counter(num)'\]';}
 </style>
 
 <ol reversed=1>
