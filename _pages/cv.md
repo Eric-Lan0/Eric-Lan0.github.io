@@ -15,7 +15,7 @@ Work Experience
   * *Supervisor*: [Dr. Sambit Sahu](https://scholar.google.com/citations?user=lhCvmjkAAAAJ&hl=en).
 
 * March - May, 2025.   <i class="fa-brands fa-microsoft"></i> Microsoft Research (MSR).
-  * Research Scientist Intern.   <div> 🏡 *Redmond, WA* </div>
+  * <div>Research Scientist Intern.</div>   <div>🏡 *Redmond, WA*</div>
   * LLM reasoning for math and code generation.
   * *Supervisor*: [Dr. Huseyin Atahan Inan](https://www.microsoft.com/en-us/research/people/huinan/), [Dr. Robert Sim](https://scholar.google.com/citations?user=uT8sPt8AAAAJ).
 
