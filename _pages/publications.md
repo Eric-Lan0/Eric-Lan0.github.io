@@ -17,6 +17,7 @@ The complete list is on my *[Google Scholar profile](https://scholar.google.com/
 <head>
 <style>
 ol {
+  line-height:1.5;
   counter-reset: num 5;
   list-style: none;
   li::before{
