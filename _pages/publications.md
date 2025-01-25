@@ -32,7 +32,7 @@ ol {
 <ol>
     <li>Self-Sampling Preference Optimization for Diffusion Model Alignment. <br />
         - Reinforcement Fine-Tuning, Diffusion Model, Text-to-Visual Generation. <br />
-        Daoan Zhang\*, **Guangchen Lan\***, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
+        Daoan Zhang*, <strong>Guangchen Lan*</strong>, Dong-Jun Han, Wenlin Yao, Xiaoman Pan, Hongming Zhang, Mingxiao Li, Pengcheng Chen, Dong Yu, Christopher Brinton, Jiebo Luo. <br />
         Submitted to CVPR 2025. February 26, 2025.
     </li>
     <li>华为手机</li>
