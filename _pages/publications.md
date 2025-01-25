@@ -23,6 +23,7 @@ ol {
   counter-increment: num -1;
   content: '['counter(num)'] ';
   }
+  margin-right: 0;
   padding-left: 0;
 }
 </style>
