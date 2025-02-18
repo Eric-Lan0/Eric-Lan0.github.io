@@ -50,10 +50,10 @@ Skills
 Academic Service
 ======
 * Reviewer
+  * NeurIPS 2025, 2024 (**Top Reviewer Award**)
   * ICML 2025
-  * NeurIPS 2024 (**Top Reviewer Award**)
-  * ICLR 2024, 2025
-  * AISTATS 2024, 2025
+  * ICLR 2025, 2024
+  * AISTATS 2025, 2024
   * AAAI 2024
   * Transactions on Machine Learning Research (TMLR)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
